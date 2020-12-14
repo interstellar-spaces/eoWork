@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "eo Revenue", "eo Revenue.pyproj", "{10B60A9A-664B-47F3-B95F-8A5FAF1CEFC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10B60A9A-664B-47F3-B95F-8A5FAF1CEFC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10B60A9A-664B-47F3-B95F-8A5FAF1CEFC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF769418-95BE-4C67-97DA-5BF3CA9EA272}
+	EndGlobalSection
+EndGlobal
