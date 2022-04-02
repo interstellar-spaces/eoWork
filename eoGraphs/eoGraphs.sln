@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "eoGraphs", "eoGraphs.pyproj", "{90DB34F8-4DE8-459C-974C-AEB9434E777C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90DB34F8-4DE8-459C-974C-AEB9434E777C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90DB34F8-4DE8-459C-974C-AEB9434E777C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32DF1043-E00F-4B30-B5A4-7AB921A617AD}
+	EndGlobalSection
+EndGlobal
